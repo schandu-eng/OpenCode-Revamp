@@ -1,2 +1,50 @@
-# OpenCode Website - Revamp
-This repository gives you a chance to revamp and redesign certain sections of the OpenCode website and use your design skills and instincts to transform these sections and improve the User Interface.
+# OpenCode Revamp
+Website design is an extremely crucial aspect as it determines the very first impression we make on our audience. It impacts how our audience perceives us and this impression can either get them to remain on our page or leave it. 
+Through this repository, you will be able to revamp and redesign certain sections of the OpenCode website and use your design skills and instincts to transform these sections and improve the User Interface.
+
+
+## Tech Stack:
+
+- Figma/Adobe XD
+
+
+
+## Common Rules:
+
+- The repository is divided into several tasks. Each task will be opened subsequently for a limited amount of time and all the submissions have to be made within those allotted days only. NO submission will be accepted after the allotted time ends. The details for the specific tasks and the time allotted for each can be found in their specific folders.
+- The submissions will be judged by the mentors and points will be allotted by them for each particular task based on various aspects and intricacies of design like design thinking process, originality of the idea, visual appeal of the submission, etc. The points will be distributed as follows:
+    
+    1st Place: Maximum Points
+    
+    2nd Place: 0.8 x Maximum Points
+    
+    3rd Place: 0.5 x Maximum Points
+    
+
+The rest of the participants who qualify for the Minimum Design Criteria (MDC) as mentioned in the respective folders of the task will be awarded 0.3 x Maximum Points.
+
+ALL THE FINAL DECISIONS FOR THE JUDGMENT AND AWARDING OF POINTS BASED ON THE SUBMISSION RESIDE WITH THE MENTORS. No claim can be made on the number of points awarded by the Mentors.
+
+
+
+## OpenCode Revamp Timeline:
+
+1. First Section Redesign  [ Week 1 ]   
+2. Second Section Redesign [ Week 1 ]   
+3. Third Section Redesign  [ Week 2 ]   
+4. Fourth Section Redesign [ Week 3 ]  
+5. Fifth Section Redesign  [ Week 4 ]   
+
+
+
+## **Contribution:**
+
+Please follow the below guidelines while contributing to this project:
+1. Fork the repository and clone locally.
+2. Create an upstream remote and sync your local copy before your branch. See detailed instructions [here](https://help.github.com/articles/syncing-a-fork)
+3. Create separate branches for each separate piece of work.
+4. Do the work and commit changes with good commit messages.
+5. Once you are confident in your work, create a pull request to the `main` branch of the upstream repository with proper descriptions explaining what you did and wait until we review it.
+
+> Check out [GitHub Flow](https://guides.github.com/introduction/flow/) for more details.
+>
