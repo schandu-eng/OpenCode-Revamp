@@ -17,24 +17,25 @@ Through this repository, you will be able to revamp and redesign certain section
 
 </br>
 
-| Task             | Tentative Time                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| First Section Redesign | Week 1 |
-| Second Section Redesign | Week 1 |
-| Third Section Redesign | Week 2 |
-| Fourth Section Redesign | Week 3 |
-| Fifth Section Redesign | Week 4 |
+| Task             | Tentative Duration                                                      | Difficulty Level  |  Points  |
+| ----------------- | ------------------------------------------------------------------ | ----------------- | --------- | 
+| First Section Redesign | 04th Oct-07th Oct 2021 | Rookie | 10 |
+| Second Section Redesign |07th Oct-10th Oct 2021 | Rookie | 10 |
+| Third Section Redesign | 10th Oct-14th Oct 2021  | Skilled | 20 |
+| Fourth Section Redesign |14th Oct-18th Oct 2021 | Skilled | 20 |
+| Fifth Section Redesign- Design Thinking Documentation | 19th Oct-25th Oct 2021 | Advanced | 30 |
+| Fifth Section Redesign | 25th Oct-2nd Nov 2021 | Expert | 50 |
   
 </br>
 
-> The exact START and END date for each task along with the detailed instructions will be mentioned in their respective folders. Keep checking for updates about new task releases😉!
+> The detailed instructions of each task will be mentioned in the respective folders. Keep checking for updates about new task releases😉!
 
 
 </br>
 
 ## Common Guidelines:
 
-- The Design Repo is divided into several tasks. Each task will be opened subsequently for a limited amount of time and all the submissions have to be made within those allotted days only. NO submission will be accepted after the allotted time ends. The details for the specific tasks and the time allotted for each can be found in their specific folders.
+- The Repository is divided into several tasks. Each task will be opened subsequently for a limited amount of time and all the submissions have to be made within those allotted days only. NO submission will be accepted after the allotted time ends. The details for the specific tasks and the time allotted for each can be found in their specific folders.
 - The submissions will be scored by the mentors, out of maximum points for that particular issue, based on the various aspects of design like design thinking, originality, visual appeal etc. The best submission will be awarded full points.
 - The submissions will be judged by the mentors and points will be allotted by them for each particular task based on various aspects and intricacies of design like design thinking process, originality of the idea, visual appeal of the submission etc. The points will be distributed as follows:
     
@@ -45,6 +46,7 @@ Through this repository, you will be able to revamp and redesign certain section
     🥉 3rd Place: *0.5 x Full Points*
     
     Rest of the participants who qualify the **Minimum Design Criteria (MDC)** as mentioned in the respective folders of the task will be awarded *0.3 x Full Points*.
+    
     
 </br>
 
