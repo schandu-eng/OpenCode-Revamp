@@ -26,8 +26,8 @@ Through this repository, you will be able to revamp and redesign certain section
 | Second Section Redesign |07th Oct-10th Oct 2021 | Rookie | 10 |
 | Third Section Redesign | 10th Oct-14th Oct 2021  | Skilled | 20 |
 | Fourth Section Redesign |14th Oct-18th Oct 2021 | Skilled | 20 |
-| Fifth Section Redesign- Design Thinking Documentation | 19th Oct-25th Oct 2021 | Advanced | 30 |
-| Fifth Section Redesign | 25th Oct-2nd Nov 2021 | Expert | 50 |
+| Fifth Section Redesign| 19th Oct-28th Oct 2021 | Expert | 50 |
+| Design Thinking Documentation | 28th Oct-3rd Nov 2021 | Advanced | 30 |
   
 </br>
 
