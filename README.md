@@ -31,7 +31,7 @@ Through this repository, you will be able to revamp and redesign certain section
   
 </br>
 
-> The detailed instructions of each task will be mentioned in the respective folders. Keep checking for updates about new task releases😉!
+> The detailed instructions of each task will be mentioned in the respective folders once the submission duration starts. Keep checking for updates about new task releases😉!
 
 
 </br>
@@ -48,12 +48,12 @@ Through this repository, you will be able to revamp and redesign certain section
     
     🥉 3rd Place: *0.5 x Full Points*
     
-    Rest of the participants who qualify the **Minimum Design Criteria (MDC)** as mentioned in the respective folders of the task will be awarded *0.3 x Full Points*.
+    Rest of the participants who qualify the **Minimum Design Criteria (MDC)**, which will be mentioned in the respective folders of the task once submission duration begins, will be awarded *0.3 x Full Points*.
     
     
 </br>
 
-> ALL THE FINAL DECISIONS FOR THE JUDGMENT AND AWARDING OF POINTS ⚖️ BASED ON THE SUBMISSION RESIDE WITH THE MENTORS & ORGANISERS. 
+> ALL THE FINAL DECISIONS FOR THE JUDGEMENT AND AWARDING OF POINTS ⚖️ BASED ON THE SUBMISSION RESIDE WITH THE MENTORS & ORGANISERS. 
 > No claim can be made on the number of points awarded by the Mentors & Organisers🙂.
 
 </br>
