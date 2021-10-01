@@ -1,4 +1,4 @@
-# OpenCode Revamp
+# OpenCode Revamp 💻
 
 </br>
 
