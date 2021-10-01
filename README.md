@@ -3,6 +3,9 @@
 </br>
 
 > ***Website design*** is an extremely crucial aspect as it determines the very first impression we make on our audience. It impacts how our audience perceives us and this impression can either get them to remain on our page or leave it. 
+
+</br>
+
 Through this repository, you will be able to revamp and redesign certain sections of the OpenCode website and use your design skills and instincts to transform these sections and improve the User Interface.
 
 </br>
@@ -17,7 +20,7 @@ Through this repository, you will be able to revamp and redesign certain section
 
 </br>
 
-| Task             | Tentative Duration                                                      | Difficulty Level  |  Points  |
+| Task             | Submission Duration                                                      | Difficulty Level  |  Points  |
 | ----------------- | ------------------------------------------------------------------ | ----------------- | --------- | 
 | First Section Redesign | 04th Oct-07th Oct 2021 | Rookie | 10 |
 | Second Section Redesign |07th Oct-10th Oct 2021 | Rookie | 10 |
