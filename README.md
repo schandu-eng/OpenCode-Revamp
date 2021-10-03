@@ -39,16 +39,9 @@ Through this repository, you will be able to revamp and redesign certain section
 ## Common Guidelines:
 
 - The Repository is divided into several tasks. Each task will be opened subsequently for a limited amount of time and all the submissions have to be made within those allotted days only. NO submission will be accepted after the allotted time ends. The details for the specific tasks and the time allotted for each can be found in their specific folders.
-- The submissions will be scored by the mentors, out of maximum points for that particular issue, based on the various aspects of design like design thinking, originality, visual appeal etc. The best submission will be awarded full points.
-- The submissions will be judged by the mentors and points will be allotted by them for each particular task based on various aspects and intricacies of design like design thinking process, originality of the idea, visual appeal of the submission etc. The points will be distributed as follows:
+- The submissions will be judged by the mentors and points will be allotted by them for each particular task based on various aspects and intricacies of design like design thinking process, originality of the idea, visual appeal of the submission, etc. 
+- Since everyone should be awarded for their efforts, the participants who qualify the **Minimum Design Criteria (MDC)**,  which will be mentioned in the respective folders of the task once the submission duration begins, will be awarded **Full Points🎉**.   
     
-    🥇 1st Place : *Full points*
-    
-    🥈 2nd Place: *0.8 x Full Points*
-    
-    🥉 3rd Place: *0.5 x Full Points*
-    
-    Rest of the participants who qualify the **Minimum Design Criteria (MDC)**, which will be mentioned in the respective folders of the task once submission duration begins, will be awarded *0.3 x Full Points*.
     
     
 </br>
@@ -64,7 +57,7 @@ We welcome your contributions. Please follow the below guidelines while contribu
 
 1. Fork the repository and clone locally.
 2. Create an upstream remote and sync your local copy before you branch. See detailed instructions [here](https://help.github.com/articles/syncing-a-fork)
-3. Create seperate braches for each seperate piece of work.
+3. Create separate branches for each separate piece of work.
 4. Do the work and commit changes with good commit messages.
 5. Once you are confident in your work, create a pull request to the `main` branch of upstream repository with proper descriptions explaining what you did and wait until we review it.
 
